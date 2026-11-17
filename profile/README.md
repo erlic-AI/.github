@@ -1,4 +1,4 @@
-# Erlic AI
+# erlic AI
 
 **Open research on compute-efficient Turkish language models and verifiable reasoning.**
 
