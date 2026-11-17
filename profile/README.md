@@ -49,9 +49,6 @@ We are interested in research collaborations, GPU compute grants, research credi
 ---
 
 <p align="center">
-
   <strong>erlic AI</strong><br>
-
   Advancing Turkish Language Artificial Intelligence.
-
 </p>
